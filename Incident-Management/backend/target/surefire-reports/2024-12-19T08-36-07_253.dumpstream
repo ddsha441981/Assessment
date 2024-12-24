@@ -1,0 +1,5 @@
+# Created at 2024-12-19T08:36:09.561
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Development\Java Development\December2024\Rupzz-Assessment\rafifuzz\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
